@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+}
+
+p{
+  font-family: 'Glass Antiqua', cursive;
+  font-size: 30px;
+  text-align: center;
+}
+
+.box{
+  height: 100px;
+  width: 130px;
+}
+
+#container{
+  border: 1px solid gray;
+  width: 520px;
+  height: auto;
+  margin: auto;
+}
+
+#blue{
+  background-color: #0000BA;
+}
+
+#yellow{
+  background-color: #FFFF00;
+}
+
+#red{
+  background-color: #DC0000;
+}
