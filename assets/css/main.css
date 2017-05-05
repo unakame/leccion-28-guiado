@@ -11,6 +11,7 @@ p{
 .box{
   height: 100px;
   width: 130px;
+  float: left;
 }
 
 #container{
